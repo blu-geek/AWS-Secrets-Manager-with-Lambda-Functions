@@ -2,7 +2,7 @@
 # AWS-Secrets-Manager-with-Lambda-Functions
 # Retrieving Secrets from AWS Secrets Manager using Lambda for DynamoDB Access
 
-In this project walth-through, we're building a serverless architecture using AWS Lambda functions and DynamoDB. We're creating Lambda functions to interact with DynamoDB, both hard-coding access keys and using Secrets Manager for secure access. These functions allow us to create tables, insert items, and retrieve data, ensuring safe and efficient data management.
+This project walk-through builds a serverless architecture using AWS Lambda functions and DynamoDB. We're creating Lambda functions to interact with DynamoDB, both hard-coding access keys and using Secrets Manager for secure access. These functions allow us to create tables, insert items, and retrieve data, ensuring safe and efficient data management.
 
 
 
